@@ -14,9 +14,9 @@ A simple command-line interface Blackgack game written in Python. It simulates a
 
 - The goal is to get as close to 21 as possible without going over.
 - Cards are valued as follows:
-+    Number cards (2-10) have face value.
-+    Face cards (Jack, Queen, King) are worth 10.
-+    Aces can be worth 11 or 1, depending on which is more favoriable to the hand.
+  + Number cards (2-10) have face value.
+  + Face cards (Jack, Queen, King) are worth 10.
+  + Aces can be worth 11 or 1, depending on which is more favoriable to the hand.
 - The player and the dealer both start with two cards.
 - The dealer reveals only one of their cards initially.
 - The place can choose to Hit (draw a card) or Stand (end their turn).
